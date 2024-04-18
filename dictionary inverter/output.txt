@@ -1,0 +1,8 @@
+John: name
+25: age
+New York: city
+Software Engineer: occupation
+Python: skills
+JavaScript: skills
+SQL: skills
+False: is_student
